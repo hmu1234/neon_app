@@ -1,16 +1,18 @@
+# Neon Bird 
 
-Neon Bird is a dark-themed arcade game built using Kotlin and the native Android SDK.
+A simple Android arcade game inspired by classical tap-to-fly mechanics.
 
-Features
+## Features
+- Smooth tap controls
+- Obstacle collision system
+- Score tracking
+- Lightweight and fast
 
-Neon dark UI
-Smooth tap-to-fly mechanics
-Dynamic obstacles
-Screen shake and particle effects
-Persistent high score
-Slow-motion power-up
-Built With
+## Download
+Download the latest APK from the **Releases** section:
+👉 [Neon Bird v1.0](../../releases)
 
-Kotlin
-Android SDK (Canvas-based rendering)
-Native Android Framework
+## Built With
+- Kotlin
+- Android SDK
+- Gradle
