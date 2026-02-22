@@ -1,4 +1,4 @@
-Neon Bird
+
 Neon Bird is a dark-themed arcade game built using Kotlin and the native Android SDK.
 
 Features
